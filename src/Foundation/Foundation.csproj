@@ -73,4 +73,7 @@
 		<Folder Include="Infrastructure\Kpi\" />
 		<Folder Include="wwwroot\" />
 	</ItemGroup>
+	<PropertyGroup>
+		<ErrorOnDuplicatePublishOutputFiles>false</ErrorOnDuplicatePublishOutputFiles>
+	</PropertyGroup>
 </Project>
